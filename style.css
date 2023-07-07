@@ -224,8 +224,9 @@ ul {
 }
 
 ul a {
+    text-decoration: none;
     display: block;
-    font-size: 0.75rem;
+    font-size: 0.8rem;
     margin-top: 10px;
     color: #dddddd;
 }
@@ -245,4 +246,19 @@ ul a {
     background-size: cover;
     height: 50px;
     width: 100px;
+}
+
+.footer-panel4 {
+    background-color: #0f1111;
+    color: white;
+    height: 75px;
+    font-size: 0.8rem;
+    text-align: center;
+}
+
+.pages {
+    padding-top: 25PX;
+}
+.copyright {
+    padding-top: 5px;
 }
